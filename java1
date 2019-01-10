@@ -35,6 +35,6 @@ public class Cal {
 		
 	 System.out.println("我是构造器");
 	}
-	
+	1
 	
 }
